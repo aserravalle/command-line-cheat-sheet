@@ -8,6 +8,13 @@ cd kuse-flask-app
 code .
 ```
 
+### CHECKOUT WITH NEW BRANCH, OPEN IN VS CODE
+```
+cd C:\Users\Ariel\Google Drive\Work\Blossom Careers\kuse-flask-app
+git checkout -b Ariel/FixBugs
+code .
+```
+
 ### VENV
 ```
 python -m venv .
