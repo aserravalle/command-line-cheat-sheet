@@ -18,7 +18,7 @@ code .
 ### VENV
 ```
 python -m venv .
-\Scripts\activate
+Scripts\activate
 pip install -r requirements.txt
 ```
 
