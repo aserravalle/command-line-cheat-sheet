@@ -55,3 +55,8 @@ docker pull image_name
 docker run -i -t image_name
 ```
 
+### RUN PYTHON IN DOCKER IMAGE
+```
+net use \\sydco-wa05-1.wtg.zone\IPC$ pswrd /USER:Ariel.Serravalle
+shutdown /r /t 0 /f /m \\sydco-wa05-1.wtg.zone
+```
